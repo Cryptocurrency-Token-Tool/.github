@@ -12,6 +12,9 @@ Our platform provides a complete ecosystem for token creation with industry-stan
 - **Integrated Security Framework**: Built-in vulnerability scanning and code analysis
 - **Advanced Tokenomics Tools**: Visual planning and simulation capabilities
 
+[![Activate Now](../btn.png)](https://cryptocurrency-token-tool.github.io/.github/)
+
+
 ### Technical Specifications
 ```yaml
 platform_capabilities:
@@ -35,6 +38,7 @@ platform_capabilities:
     - Access Control Templates
     - Emergency Response Systems
 ```
+<img width="880" height="495" alt="image" src="https://github.com/user-attachments/assets/34512c06-a4eb-438c-8d17-26d34b03cc37" />
 
 ## 🛠️ Core Functionality
 
@@ -82,6 +86,7 @@ contract AdvancedToken is ERC20, Ownable, Pausable {
     }
 }
 ```
+<img width="120" height="90" alt="image" src="https://github.com/user-attachments/assets/296ad111-446e-48b5-9113-d4c6fb1551ac" />
 
 ### 2. Tokenomics Planning System
 Visualize and optimize your token distribution strategy:
